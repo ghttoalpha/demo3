@@ -3,7 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
+body,a,button,span,form,ul,li,p {
   font-family: 'Poppins', sans-serif !important;
 }
 
