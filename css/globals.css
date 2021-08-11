@@ -1,3 +1,6 @@
+.font-poppins{
+  font-family: 'Poppins','san-serif' !important;
+}
 /* font size */
 .text-base{
   font-size: 1rem;
